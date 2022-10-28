@@ -1,9 +1,8 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>12th practical work</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap"
@@ -27,7 +26,6 @@
 
     </script>
     <style>
-
         * {
             font-family: 'Roboto', sans-serif;
         }
@@ -302,19 +300,19 @@
         <h2>Что я делаю</h2>
         <div class="services">
             <div>
-                <img src="img/1.png" alt=""><br/>
+                <img src="img/1.png" alt=""><br>
                 Вёрстка лендинг-страниц и сайтов любой сложности
             </div>
             <div>
-                <img src="img/2.png" alt=""><br/>
+                <img src="img/2.png" alt=""><br>
                 Адаптивная вёрстка под все браузеры и устроистава
             </div>
             <div>
-                <img src="img/3.png" alt=""><br/>
+                <img src="img/3.png" alt=""><br>
                 Frontend-разработка и програмирование
             </div>
             <div>
-                <img src="img/4.png" alt=""><br/>
+                <img src="img/4.png" alt=""><br>
                 Исправление и добавление существующей вёрстке
             </div>
         </div>
@@ -351,8 +349,8 @@
 <footer>
     <div class="fixed-container">
         <div class="footer-a">
-            <div><a href="#">Услуги</a><br/></div>
-            <div><a href="#">Портфолио</a><br/></div>
+            <div><a href="#">Услуги</a><br></div>
+            <div><a href="#">Портфолио</a><br></div>
             <div><a href="#">Стоимость</a></div>
         </div>
         <div class="footer-center">
